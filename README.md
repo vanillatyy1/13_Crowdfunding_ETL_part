@@ -1,6 +1,6 @@
 # Crowdfunding_ETL
 
-### Project in collaboration with [Amer B.](https://github.com/Amer4r/crownfunding_etl)
+Project in collaboration with [Amer B.](https://github.com/Amer4r/crownfunding_etl)
 
 ## 1) Executive Summary:
 
